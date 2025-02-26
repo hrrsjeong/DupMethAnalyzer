@@ -24,7 +24,7 @@ cd DupMethAnalyzer
 
 # Install dependencies
 pip install -r requirements.txt
-'''
+```
 ## Quick Start
 
 ```bash
